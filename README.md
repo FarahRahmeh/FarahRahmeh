@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Farah 
 ### 🎓 AI Engineering Student | 💻 Flutter Developer | 🤖 AI & Problem Solving Enthusiast
 
-I'm a 4th-year Artificial Intelligence student at Damascus University, passionate about building real-world applications and continuously learning beyond the classroom. I enjoy working on mobile development, solving algorithmic problems, and diving into machine learning.
+I'm a 4th-year Artificial Intelligence student at IT Damascus University, passionate about building real-world applications and continuously learning beyond the classroom. I enjoy working on mobile development, solving algorithmic problems, and diving into machine learning.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 - **Languages:** Python, C++, C#, Dart, Java, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** Flutter, Git, OOP 
+- **Frameworks & Tools:** Flutter, Git
 - **CS Concepts:** Data Structures, Algorithms, Problem Solving, Object-Oriented Programming  
 - **Spoken Languages:** Arabic (native), English
 
@@ -47,7 +47,7 @@ I'm a 4th-year Artificial Intelligence student at Damascus University, passionat
 
 ---
 
-## ✨ Fun Facts
+## ✨ About me
 
 - 🌱 I’m a self-taught learner outside the university curriculum  
 - 🧩 I enjoy logic puzzles and algorithm challenges  
@@ -55,10 +55,12 @@ I'm a 4th-year Artificial Intelligence student at Damascus University, passionat
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect info 
 
-- Email: [farahh.rahmeh@gmail.com]   
-- GitHub: [https://github.com/FarahRahmeh]  
+- [Email](farahh.rahmeh@gmail.com)
+  <!--
+- [GitHub](https://github.com/FarahRahmeh)
+  -->
 
 Thanks for visiting! 
 
